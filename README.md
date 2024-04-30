@@ -37,10 +37,9 @@ In conclusion, the analysis of the code structure and token distribution provide
 
 ## Appendix: Project Repository
 
-The code files and resources for this assignment are available in the following GitHub repository: [GitHub Repository Name](link_to_repository).
+The code files and resources for this assignment are available in the following GitHub repository: [JavaParser-TeamCpp](https://github.com/MungeliDeli/JavaParser-TeamCpp.git).
 
 ### Folder Contents:
-
 
 1. **Code Files:** 
    - `BookLending.java`: Contains the main program code.
